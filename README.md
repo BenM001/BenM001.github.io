@@ -1,5 +1,12 @@
 # BenM001.github.io
-Hi, my name is Benjamin Molnar and my email address is bmolnar@mywaketech.edu
+Hi, my name is Ben Molnar and my email address is bmolnar@mywaketech.edu
 My GitHub username is BenM001, and I'm new to GitHub. My account doesn't have a lot of personalization and I don't have any other repositories created.
 This repository was created for the college course CTI-110. So far, it only contains this README.md file, and the files history.
 In order to clone the repository onto my machine, I first had to create an account and the repository. I created my username (BenM001) and the repository (BenM001.github.io). Then I downloaded the GitHub Desktop Application and started cloning the repository. I had to change the file path to go to a GitHub folder that I created, but other then that, I simply had to press a button to clone the repository.
+# About Me
+## My Hobbies
+My main hobby is playing a variety of sports and exercising. My favorite sports are swimming and weightlifting, but I also enjoy playing basketball if I have the extra time. Another hobby of mine is playing the guitar. I am a big music guy in general, and the guitar was the first musical instrument I learned to play.
+## My Favorite Websites
+I use these two websites all the time and would recommend them to others  
+* [ESPN](https://www.espn.com) - I'm a big sports fan, so I end up using ESPN a lot for all the daily sports news. I also find it interesting how they can update the site with multiple new articles and headers at a moment's notice. They never seem to disrupt the layout of the page or seem to have an error when they post the article. It makes me wonder how many developers are needed to maintain the website, and whether they test adding the new news the day before.  
+* [YouTube](https://www.youtube.com) - I enjoy watching YouTube because there's a variety of topics and content to watch, all located on one website. Some videos also provide more entertainment and better production quality than some movies on streaming services. I also find it interesting how YouTube's website has an algorithm that personalizes the videos you see and can recommend other videos based on what you watched earlier. How could they create this algorithm back in 2005 even before the AI craze? Did they even have this algorithm back in 2005 or did they use a different method?  
